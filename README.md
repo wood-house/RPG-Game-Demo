@@ -1,3 +1,5 @@
+update readme after speaking with John
+
 # RPG Demo<br>
 
 ### Summary
